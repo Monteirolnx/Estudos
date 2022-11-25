@@ -1,5 +1,7 @@
 ﻿
-var custumer = new Custumer()
+//https://youtu.be/10Cp5JOvmVk
+
+var custumer = new Custumer
 {
     FirstName = "Luis",
     LastName = "Monteiro",
